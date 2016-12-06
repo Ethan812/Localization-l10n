@@ -168,7 +168,7 @@ msgstr "请检查是否在必填栏目内填入有效信息，谢谢"
 #: contact.php:51 contact.php:53
 msgid ""
 "Thank you %s for using our contact form! Your email was successfully sent!"
-msgstr ""
+msgstr "感谢%s使用联系表单，你的邮件已发送成功！"
 
 # @ Avada
 #: contact.php:62 contact.php:74 includes/class-avada-contact.php:155
@@ -210,19 +210,19 @@ msgstr ""
 msgid ""
 "Our site is currently undergoing scheduled maintenance. Please try again in "
 "a moment."
-msgstr ""
+msgstr "本网站例行维护中，请稍后再试"
 
 #: functions.php:683
 msgid ""
 "Currently updating the Avada Theme. Your site will be accessible once the "
 "update finishes"
-msgstr ""
+msgstr "正在升级Avada主题，你可在主题升级完成后访问网站"
 
 #: functions.php:691
 msgid ""
 "The Fusion-Core plugin needs to be updated before your site can exit "
 "maintenance mode. Please <a %s>follow this link</a> to update the plugin."
-msgstr ""
+msgstr "在退出维护模式之前你需要升级Fusion-Core插件，请<a %s>点此链接</a>来升级"
 
 #: includes/admin-screens/fusion-plugins.php:17
 msgid ""
@@ -572,7 +572,7 @@ msgstr "主页"
 # @ Avada
 #: includes/admin-screens/system-status.php:249
 msgid "The URL of your site's homepage."
-msgstr ""
+msgstr "本站主页的URL"
 
 #: includes/admin-screens/system-status.php:253
 msgid "Site URL:"
@@ -590,7 +590,7 @@ msgstr ""
 # @ Avada
 #: includes/admin-screens/system-status.php:259
 msgid "The version of WordPress installed on your site."
-msgstr ""
+msgstr "本站Wordpress版本"
 
 #: includes/admin-screens/system-status.php:263
 msgid "WP Multisite:"
@@ -3858,7 +3858,7 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_sliders.php:137
 #: includes/metaboxes/tabs/tab_sliders.php:155
 msgid "Default"
-msgstr ""
+msgstr "默认"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_background.php:13
@@ -3985,22 +3985,22 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_footer.php:10
 msgid "Display Footer Widget Area"
-msgstr ""
+msgstr "显示Footer区域小挂件"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_footer.php:16
 msgid "Choose to show or hide the footer."
-msgstr ""
+msgstr "是否显示Footer区域"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_footer.php:21
 msgid "Display Copyright Area"
-msgstr ""
+msgstr "显示版权区域"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_footer.php:27
 msgid "Choose to show or hide the copyright area."
-msgstr ""
+msgstr "是否显示版权区域"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_footer.php:32 includes/options/footer.php:322
@@ -4017,7 +4017,7 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_header.php:10
 msgid "Display Header"
-msgstr ""
+msgstr "显示Header"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_header.php:15
@@ -4045,7 +4045,7 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_header.php:53 includes/options/lightbox.php:183
 msgid "Background Opacity"
-msgstr ""
+msgstr "背景透明度"
 
 #: includes/metaboxes/tabs/tab_header.php:54
 msgid ""
@@ -4058,7 +4058,7 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_header.php:71
 msgid "Background Image"
-msgstr ""
+msgstr "背景图片"
 
 #: includes/metaboxes/tabs/tab_header.php:72 includes/options/header.php:318
 msgid ""
@@ -4072,12 +4072,12 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_header.php:137
 msgid "Main Navigation Menu"
-msgstr ""
+msgstr "主导航菜单"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_header.php:139
 msgid "Select which menu displays on this page."
-msgstr ""
+msgstr "选择哪个导航菜单显示在本页面"
 
 #: includes/metaboxes/tabs/tab_page.php:13 includes/options/layout.php:45
 msgid "Page Content Padding"
@@ -4109,14 +4109,14 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_page.php:33
 msgid "Disable the 1st featured image on page."
-msgstr ""
+msgstr "在页面显示第一个特色图片"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_page.php:40
 #: includes/metaboxes/tabs/tab_portfolio_post.php:188
 #: includes/metaboxes/tabs/tab_post.php:117
 msgid "Show Social Share Box"
-msgstr ""
+msgstr "显示社交分享框体"
 
 #: includes/metaboxes/tabs/tab_page.php:46
 #: includes/metaboxes/tabs/tab_portfolio_post.php:194
@@ -4138,7 +4138,7 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:17
 msgid "Choose to show or hide the page title bar."
-msgstr ""
+msgstr "是否显示页面标题栏"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:38
@@ -4155,7 +4155,7 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:42
 msgid "Search Bar"
-msgstr ""
+msgstr "搜索栏"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:45
@@ -4166,12 +4166,12 @@ msgstr ""
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:51
 #: includes/options/page_title_bar.php:42
 msgid "Page Title Bar Text"
-msgstr ""
+msgstr "页面标题栏文字"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:57
 msgid "Choose to show or hide the page title bar text."
-msgstr ""
+msgstr "是否显示页面标题栏文字"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:77
@@ -4187,7 +4187,7 @@ msgstr ""
 # @ Avada
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:90
 msgid "Page Title Bar Custom Text"
-msgstr ""
+msgstr "自定义页面标题栏文字"
 
 # @ Avada
 #: includes/metaboxes/tabs/tab_pagetitlebar.php:91
