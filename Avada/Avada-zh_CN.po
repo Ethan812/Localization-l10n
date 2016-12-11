@@ -66,7 +66,7 @@ msgstr "- 回复"
 # @ bbpress
 #: bbpress/loop-search-topic.php:44
 msgid "Topic: "
-msgstr ""
+msgstr "标题："
 
 # @ bbpress
 #: bbpress/loop-search-topic.php:49
@@ -122,7 +122,7 @@ msgstr "网站"
 
 #: comments.php:63
 msgid "Comment"
-msgstr ""
+msgstr "评论"
 
 # @ Avada
 #: comments.php:63
@@ -136,7 +136,7 @@ msgstr "留言"
 
 #: comments.php:66
 msgid "You must be %1$slogged in%2$s to post a comment."
-msgstr ""
+msgstr "你必须%1$s登入%2$s才能发表评论"
 
 #: comments.php:67
 msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
@@ -168,7 +168,7 @@ msgstr "请检查是否在必填栏目内填入有效信息，谢谢"
 #: contact.php:51 contact.php:53
 msgid ""
 "Thank you %s for using our contact form! Your email was successfully sent!"
-msgstr ""
+msgstr "感谢%s使用联系表单，你的邮件已成功发送！"
 
 # @ Avada
 #: contact.php:62 contact.php:74 includes/class-avada-contact.php:155
@@ -210,13 +210,13 @@ msgstr ""
 msgid ""
 "Our site is currently undergoing scheduled maintenance. Please try again in "
 "a moment."
-msgstr ""
+msgstr "本站正在维护中，请稍后再试。"
 
 #: functions.php:683
 msgid ""
 "Currently updating the Avada Theme. Your site will be accessible once the "
 "update finishes"
-msgstr ""
+msgstr "正在更行Avada主题，你的网站将在更新完成后可访问。"
 
 #: functions.php:691
 msgid ""
@@ -323,7 +323,7 @@ msgstr ""
 
 #: includes/admin-screens/install-demos.php:58
 msgid "New"
-msgstr ""
+msgstr "新的"
 
 #: includes/admin-screens/install-demos.php:74
 msgid "Avada Demos Can Only Be Installed With A Valid Token Registration"
@@ -382,7 +382,7 @@ msgstr ""
 # @ Avada
 #: includes/admin-screens/support.php:27 includes/admin-screens/support.php:29
 msgid "Knowledgebase"
-msgstr ""
+msgstr "知识库"
 
 # @ Avada
 #: includes/admin-screens/support.php:28
@@ -395,7 +395,7 @@ msgstr ""
 # @ Avada
 #: includes/admin-screens/support.php:32
 msgid "Video Tutorials"
-msgstr ""
+msgstr "视频教程"
 
 # @ Avada
 #: includes/admin-screens/support.php:33
@@ -408,7 +408,7 @@ msgstr ""
 # @ Avada
 #: includes/admin-screens/support.php:34
 msgid "Watch Videos"
-msgstr ""
+msgstr "观看视频"
 
 #: includes/admin-screens/support.php:37 includes/admin-screens/support.php:39
 msgid "Community Forum"
@@ -465,7 +465,7 @@ msgstr ""
 
 #: includes/admin-screens/system-status.php:39
 msgid "Update History:"
-msgstr ""
+msgstr "更新历史"
 
 #: includes/admin-screens/system-status.php:52
 msgid "No previous versions could be detected"
@@ -636,22 +636,22 @@ msgstr ""
 
 #: includes/admin-screens/system-status.php:296
 msgid "Language:"
-msgstr ""
+msgstr "语言"
 
 # @ Avada
 #: includes/admin-screens/system-status.php:297
 msgid "The current language used by WordPress. Default = English"
-msgstr ""
+msgstr "Wordpress目前使用的语言，默认：英语"
 
 # @ Avada
 #: includes/admin-screens/system-status.php:303
 #: includes/admin-screens/system-status.php:307
 msgid "Server Environment"
-msgstr ""
+msgstr "服务器环境"
 
 #: includes/admin-screens/system-status.php:312
 msgid "Server Info:"
-msgstr ""
+msgstr "服务器信息"
 
 # @ Avada
 #: includes/admin-screens/system-status.php:313
@@ -660,7 +660,7 @@ msgstr ""
 
 #: includes/admin-screens/system-status.php:317
 msgid "PHP Version:"
-msgstr ""
+msgstr "PHP版本："
 
 # @ Avada
 #: includes/admin-screens/system-status.php:318
@@ -726,7 +726,7 @@ msgstr ""
 # @ Avada
 #: includes/admin-screens/system-status.php:379
 msgid "SUHOSIN Installed:"
-msgstr "未安装"
+msgstr "已安装的SUHOSIN："
 
 #: includes/admin-screens/system-status.php:380
 msgid ""
@@ -816,7 +816,7 @@ msgstr ""
 # @ Avada
 #: includes/admin-screens/system-status.php:497
 msgid "WP Remote Post:"
-msgstr "相关文章:"
+msgstr "WP远程文章:"
 
 #: includes/admin-screens/system-status.php:503
 msgid "GD Library:"
@@ -842,12 +842,12 @@ msgstr ""
 #: includes/admin-screens/system-status.php:522
 #: includes/admin-screens/system-status.php:526
 msgid "Active Plugins"
-msgstr ""
+msgstr "激活插件"
 
 # @ Avada
 #: includes/admin-screens/system-status.php:550
 msgid "Visit plugin homepage"
-msgstr ""
+msgstr "访问插件主页"
 
 # @ Avada
 #: includes/admin-screens/welcome.php:11
@@ -864,7 +864,7 @@ msgstr ""
 
 #: includes/admin-screens/welcome.php:19
 msgid "Congratulations! Your product is registered now."
-msgstr ""
+msgstr "恭喜！本产品已注册。"
 
 #: includes/admin-screens/welcome.php:21
 msgid "Please enter your Envato token to complete registration."
@@ -924,15 +924,15 @@ msgstr ""
 
 #: includes/avada-functions.php:458 includes/avada-functions.php:460
 msgid "By %s"
-msgstr ""
+msgstr "作者：%s"
 
 #: includes/avada-functions.php:486
 msgid "Categories: %s"
-msgstr ""
+msgstr "分类：%s"
 
 #: includes/avada-functions.php:498
 msgid "Tags: %s"
-msgstr ""
+msgstr "标签：%s"
 
 # @ Avada
 #: includes/avada-functions.php:505 templates/related-posts.php:87
@@ -946,7 +946,7 @@ msgstr "1 条评论"
 
 #: includes/avada-functions.php:505 templates/related-posts.php:87
 msgid "% Comments"
-msgstr ""
+msgstr "%条评论"
 
 # @ Avada
 #: includes/avada-functions.php:588 includes/options/blog.php:274
@@ -971,7 +971,7 @@ msgstr "我的帐户"
 
 #: includes/avada-functions.php:749
 msgid "Login failed, please try again."
-msgstr ""
+msgstr "登入失败，请重试"
 
 # @ Avada
 #: includes/avada-functions.php:752
@@ -995,7 +995,7 @@ msgstr "登入"
 
 #: includes/avada-functions.php:761
 msgid "Register"
-msgstr ""
+msgstr "注册"
 
 # @ Avada
 #: includes/avada-functions.php:765
@@ -1076,7 +1076,7 @@ msgstr "安装插件: %s"
 # @ Avada
 #: includes/avada-tgm.php:126 includes/class-tgm-plugin-activation.php:347
 msgid "Something went wrong with the plugin API."
-msgstr "有什么导致了插件API错误"
+msgstr "未知问题导致了插件API错误"
 
 #: includes/avada-tgm.php:127
 msgid "Avada requires the following plugin installed: %1$s."
@@ -1180,7 +1180,7 @@ msgstr ""
 
 #: includes/avadaredux/class-avada-avadaredux-migration.php:128
 msgid "Social Networks"
-msgstr ""
+msgstr "社交网络"
 
 #: includes/avadaredux/class-avada-avadaredux-migration.php:132
 msgid "HEX to RGBA colors conversion"
@@ -1202,7 +1202,7 @@ msgstr ""
 #: includes/avadaredux/custom-fields/typography/field_typography.php:932
 #: includes/options/typography.php:256 includes/options/typography.php:267
 msgid "Custom Fonts"
-msgstr ""
+msgstr "自定义字体"
 
 #: includes/avadaredux/class-avada-avadaredux-migration.php:152
 #: includes/avadaredux/class-avada-avadaredux-migration.php:156
@@ -1211,7 +1211,7 @@ msgstr ""
 
 #: includes/avadaredux/class-avada-avadaredux-migration.php:160
 msgid "Other Options"
-msgstr ""
+msgstr "其它选项"
 
 #: includes/avadaredux/class-avada-avadaredux.php:154
 msgid "Avada Options have moved!"
@@ -1289,7 +1289,7 @@ msgstr ""
 
 #: includes/avadaredux/custom-fields/color_alpha/field_color_alpha.php:68
 msgid "Transparent"
-msgstr ""
+msgstr "透明度"
 
 #: includes/avadaredux/custom-fields/dimensions/field_dimensions.php:71
 msgid "Width"
@@ -1317,7 +1317,7 @@ msgstr "所有"
 #: includes/options/social_media.php:393
 #: includes/widget/class-fusion-widget-social-links.php:505
 msgid "Top"
-msgstr ""
+msgstr "顶部"
 
 # @ Avada
 #: includes/avadaredux/custom-fields/spacing/field_spacing.php:113
@@ -1339,7 +1339,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-menu.php:169
 #: includes/widget/class-fusion-widget-social-links.php:506
 msgid "Right"
-msgstr ""
+msgstr "右边"
 
 #: includes/avadaredux/custom-fields/spacing/field_spacing.php:120
 #: includes/avadaredux/custom-fields/typography/field_typography.php:462
@@ -1351,7 +1351,7 @@ msgstr ""
 #: includes/options/social_media.php:395
 #: includes/widget/class-fusion-widget-social-links.php:507
 msgid "Bottom"
-msgstr ""
+msgstr "底部"
 
 # @ Avada
 #: includes/avadaredux/custom-fields/spacing/field_spacing.php:127
@@ -1373,7 +1373,7 @@ msgstr ""
 #: includes/widget/class-fusion-widget-menu.php:167
 #: includes/widget/class-fusion-widget-social-links.php:508
 msgid "Left"
-msgstr ""
+msgstr "左边"
 
 #: includes/avadaredux/custom-fields/typography/field_typography.php:225
 msgid "Font Family"
@@ -1445,7 +1445,7 @@ msgstr ""
 #: includes/avadaredux/custom-fields/typography/field_typography.php:414
 #: includes/avadaredux/custom-fields/typography/field_typography.php:415
 msgid "Font Size"
-msgstr ""
+msgstr "字体大小"
 
 #: includes/avadaredux/custom-fields/typography/field_typography.php:415
 msgid "Size"
